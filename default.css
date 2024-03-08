@@ -1,28 +1,51 @@
 body {
-    background: white;
-  }
-  p {
-    color: black;
-    font-size: 1.5em;
-  }
-  h1 {
-    font-size: 3em;
-  }
-  h2 {
-    font-size: 3em;
-  }
-  h3 {
-    font-size: 3em;
-  }
-  h4 {
-    font-size: 3em;
-  }
-  h5 {
-    font-size: 3em;
-  }
-  h6 {
-    font-size: 3em;
-  }
-  li {
-    font-size: 1.5em;
-  }
+  background: white;
+  margin: 0;
+}
+
+p {
+  color: black;
+  font-size: 1.5em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+h1 {
+  font-size: 3em;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+h2 {
+  font-size: 3em;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+h3 {
+  font-size: 3em;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+h4 {
+  font-size: 3em;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+h5 {
+  font-size: 3em;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+h6 {
+  font-size: 3em;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+li {
+  font-size: 1.5em;
+}
